@@ -1,0 +1,1 @@
+d:\python\btre_project\venv\Scripts\activate.bat
