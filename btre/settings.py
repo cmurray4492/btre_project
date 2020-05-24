@@ -143,13 +143,6 @@ MESSAGE_TAGS = {
     messages.ERROR: 'Danger'
 }
 
-# Email Cofig
-# GMail says this  is not secure enough to use find another
-# EMAIL_HOST = 'smtp.gmail.com'
-# EMAIL_PORT = 587
-# EMAIL_HOST_USER = 'cmurray4492@gmail.com'
-# EMAIL_HOST_PASSWORD = 'Fastslow2329!'
-# EMAIL_USE_TLS = True
 
 try:
     from .local_settings import *
